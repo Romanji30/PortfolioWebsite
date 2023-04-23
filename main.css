@@ -1,0 +1,51 @@
+.hero {
+    background-image: url('img/SnowyMountain.png');
+    height: 400px;
+}
+
+.mask {
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 400px;
+}
+
+.hero-text {
+    align-items: center;
+}
+
+.hero-text-h1 {
+    color: rgb(70, 100, 210);
+}
+
+.cards {
+    display: flex;
+}
+
+body {
+    background-image: url("/img/5a60e93955ac56190a8b46f4.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+body.pong {
+    background-image: url("/img/Schermafbeelding\ 2023-04-23\ 210514.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body.Tank {
+    background-image: url("/img/Schermafbeelding\ 2023-04-23\ 194912.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body.race {
+    background-image: url("/img/Schermafbeelding\ 2023-04-23\ 200457.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body.tower {
+    background-image: url("/img/Schermafbeelding\ 2023-03-23\ 140848.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
