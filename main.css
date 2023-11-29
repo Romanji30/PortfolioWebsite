@@ -26,11 +26,13 @@ body {
     background-size: cover;
   }
 
+/*
 body.pong {
     background-image: url("/img/Schermafbeelding\ 2023-04-23\ 210514.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
+*/
 
 body.Tank {
     background-image: url("/img/Schermafbeelding\ 2023-04-23\ 194912.png");
